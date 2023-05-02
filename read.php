@@ -48,6 +48,7 @@ if(isset($_GET["id"]) && !empty(trim($_GET["id"]))){
     header("location: error.php");
     exit();
 }
+
 ?>
 
 <!DOCTYPE html>

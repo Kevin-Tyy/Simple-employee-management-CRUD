@@ -134,6 +134,7 @@ if(isset($_POST["id"]) && !empty($_POST["id"])){
             margin: 0 auto;
         }
     </style>
+    
 </head>
 <body>
     <div class="wrapper">

@@ -64,6 +64,7 @@
                                         echo "</td>";
                                     echo "</tr>";
                                 }
+                                
                                 echo "</tbody>";                            
                             echo "</table>";
                             // Free result set
